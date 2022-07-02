@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BhreKheley
 - 👀 I’m interested in Game and Web Development
-- 🌱 I’m currently learning C# - Java - JS - HTML - css - Pyhton
+- 🌱 I’m currently learning Java - JS - HTML - css
 - 💞️ I’m looking to collaborate on MyPortofolio
