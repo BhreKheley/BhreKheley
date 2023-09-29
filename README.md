@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BhreKheley
-- 👀 I’m interested in Game and Web Development
-- 🌱 I’m currently learning Java - JS - HTML - css
+- 👀 I’m interested in Mobile and Web Development
+- 🌱 I’m currently learning Dart - Flutter - Java - JS - HTML - CSS
 - 💞️ I’m looking to collaborate on MyPortofolio
